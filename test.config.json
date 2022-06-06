@@ -1,0 +1,26 @@
+{
+    "expectedTotalLimit" : 15000,
+    "url" : "https://www.emag.ro",
+    "components": [
+        {
+            "id": "procesoare",
+            "keywords": ["5600x"], "match": 
+                {
+                    "socket": ["Socket"]
+                }
+            },
+            {
+                "id": "placi_video",
+                
+            "keywords": ["6500-xt"]
+        },
+        {
+            "id": "memorii",
+            "keywords": ["kingston-fury-beast"],
+            "match": { "memory": ["Tip memorie"],
+                "socket": ["Tip Socket", "Socket", "CPU Socket"]
+            }
+            
+        }
+    ]
+    } 
